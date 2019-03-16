@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Mobile Control for Solar/Battery Storage
 
-You can use the [editor on GitHub](https://github.com/lightfoot610/Project-Idea/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![solar](https://user-images.githubusercontent.com/48243224/54472570-28ea7080-4805-11e9-96b2-b402f7b9bd82.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The project idea i will work on is solar/battery storage for homes and properties and creating a general application for owners to control their power usage and went they want battery power or mains power used. There is already multiple solar apps that track solar consumption and KWh but all are poorly rated and don't give the owner much control. I wish to implement a control system in a homes switchboard that cuts out incoming power and uses only the power stored. 
 
-### Markdown
+### Motivation Towards This Project
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Working in the electrical industry, nearly every home has solar panels and a inverter converting power back into the grid. Being from WA, our electricity provider (Western Power) use smart meters and tariffs to control the power consumption. All of clients ask whether there are ways to bypass the provider and use the power the solar panels generate. That only works if you have a  large battery group to store it. It is a expensive exercise especially for small homes but there are more and more trials being conducted around WA and it looks to be the way of the future to avoid black outs and use up to 90% of your usage straight from your solar.
 
-```markdown
-Syntax highlighted code block
+### How will it work?
 
-# Header 1
-## Header 2
-### Header 3
+The features of my idea will involve a micro-processor controlled wiring system to control which power you would like to use and installing contactors and relays inside your switchboard. A lot of research will have come into consideration for this idea. The electrical side i have some understanding of, its the approach of how to attack the IT side of a project like this, that is the challenge. Things needed for the project
+	Hardware:
+      Solar PV panels, Inverter, Battery System, Sensors, 
+	2. 
+### Toolsand Skills Required (100)
 
-- Bulleted
-- List
+Example: 
+[Example of type of software](https://www.clipsal.com/Trade/Products/Integrated-Systems/C-Bus-Control-and-Management-System/C-Bus-Software)
+Skills Required (100) 
 
-1. Numbered
-2. List
+### Outcome (100)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lightfoot610/Project-Idea/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
