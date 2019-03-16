@@ -22,3 +22,4 @@ Skills Required (100)
 
 ### Outcome (100)
 
+[Back to Home Page](https://lightfoot610.github.io/MyProfile/)
