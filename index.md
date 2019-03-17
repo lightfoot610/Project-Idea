@@ -24,11 +24,12 @@ The main functions i would want this idea to achieve is:
 - Alerts and faults diagnostics
 
 ### Skills Required
-To create the app the skills needed are:
-- Competent in coding (Java etc)
-- able to use Android SDK
-- Design and writing skills
-- Performance testing and cross platform skills
+In order to create a successful app, the required skills needed are:
+- To be competent in coding (Java etc)
+- Able to use Android SDK
+- Creative design and writing skills
+- Performance testing skills which will ensure the application is reliable and performing in accordance to there intended workload. 
+- Cross platform skills which will assist in identifying any issues that may impact the performance of the application.
 
 To connect control equipment into the switchboard or power source an electrician will be required.
 
