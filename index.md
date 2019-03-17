@@ -28,7 +28,7 @@ The features of my idea will involve a micro-processor controlled wiring system 
 
 ### Skills Required
 To create the app the skills needed are:
-- Competent in coding like Java and the 
+- Competent in coding (Java etc)
 - able to use Android SDK
 - Design and writing skills
 - Performance testing and cross platform skills
@@ -36,6 +36,6 @@ To create the app the skills needed are:
 To connect control equipment into the switchboard or power source an electrician will be required.
 
 ### Overall
-This idea is already in motion and i expect it will really pick up in the next few years after more successful trials. With everyone's home able to use their own power system there will be less reliablity on grid power and coal driven generators. This application gives the owner control of which power system is being used, information of PV panel performance, overall usage, safety precautions and automatic changeover if battery power is low.
+This idea is already in motion and i expect it will really pick up in the next few years after more successful trials. With everyone's home able to use their own power system there will be less reliablity on grid power and coal driven generators. This application gives the owner control of which power system is being used, information of PV panel performance, overall usage, safety precautions and automatic changeover if battery power is low. Solar energy is a eco friendly source of energy and the future of power usage. Therefore I believe its an important project to put research into and i can see myself wanting the be apart of more as i expand my knowledge in the IT industry.
 
 [Back to Home Page](https://lightfoot610.github.io/MyProfile/)
