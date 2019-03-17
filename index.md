@@ -12,19 +12,16 @@ Working in the electrical industry, nearly every home has solar panels and a inv
 
 ### How will it work?
 
-The features of my idea will involve a micro-processor controlled wiring system to control which power you would like to use and installing contactors, relays, automatic switches inside your switchboard. A lot of research will have come into consideration for this idea. The electrical side I have some understanding of, its the approach of how to attack the IT side of a project like this, that is the challenge. I have chosen C Bus technology to program to this output because it is a software I'm familar with. I have also chosen this beacuse i am unsure how to create an application at this stage. 
+The features of my idea will involve a micro-processor controlled wiring system to control which power you would like to use and installing contactors, relays, automatic switches inside your switchboard. A lot of research will have come into consideration for this idea. The electrical side I have some understanding of, its the approach of how to attack the IT side of a project like this, that is the challenge. I have chosen C Bus technology to program to this output because it is a software I'm familar with. I have also chosen this beacuse I am unsure how to create an application at this stage but in the long run I believe creating a general app for all solar/battery systems would be most effective once i learn the necessary skills required.
 
 [TYPE OF SOFTWARE](https://www.clipsal.com/Trade/Products/Integrated-Systems/C-Bus-Control-and-Management-System/C-Bus-Software)
 
-
-``` The main functions i would want this idea to achieve is:
+The main functions i would want this idea to achieve is:
 
 - Be able to change the incoming electrical source to your house from a device (Shutoff grid power and use solar)
 - Automatic sensing to change mains power when battery power is too low and kick back in when sufficient enough
 - Store data of power usage (kWh)
 - Alerts and faults diagnostics
-
-```
 
 ### Skills Required
 To create the app the skills needed are:
